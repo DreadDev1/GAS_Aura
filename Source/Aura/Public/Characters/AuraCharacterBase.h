@@ -17,6 +17,6 @@ public:
 protected:
 	virtual void BeginPlay() override;
 
-	UPROPERTY(EditAnywhere, Category = "Aura|Combat")
+	UPROPERTY(EditDefaultsOnly, Category = "Aura|Combat")
 	TObjectPtr<USkeletalMeshComponent> Weapon;
 };
