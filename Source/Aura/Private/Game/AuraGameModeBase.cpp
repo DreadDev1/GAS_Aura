@@ -1,6 +1,4 @@
 ﻿// Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Characters/AuraEnemy.h"
-
-
+#include "Game/AuraGameModeBase.h"
